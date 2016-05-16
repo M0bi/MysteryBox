@@ -1,0 +1,8 @@
+name: MysteryBox
+main : me.mobi.mysterybox.MysteryBoxPlugin
+version: 0.0.1
+author: M0bi
+commands:
+   test:
+      description: This is a demo command.
+      usage: /<command> [player]
